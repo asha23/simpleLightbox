@@ -332,8 +332,9 @@
                     '<div class="slbElement ' + o.elementClass + '">' +
                         '<div class="slbOverlay"></div>' +
                         '<div class="slbWrapOuter">' +
-                    '<button type="button" title="' + o.closeBtnCaption + '" class="slbCloseBtn ' + o.closeBtnClass + '">×</button>' +
+                    
                             '<div class="slbWrap">' +
+                    '<button type="button" title="' + o.closeBtnCaption + '" class="slbCloseBtn ' + o.closeBtnClass + '">×</button>' +
                                 '<div class="slbContentOuter">' +
                                     '<div class="slbContent"></div>' +
                                      
